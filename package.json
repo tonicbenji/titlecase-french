@@ -1,0 +1,15 @@
+{
+  "name": "titlecase-french-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "titlecase-french": "^1.0.1"
+  }
+}

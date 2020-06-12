@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "copy": "node index"
+    "copy": "node index",
+    "combined": "node combined"
   },
   "author": "",
   "license": "ISC",

@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "clipboardy": "^2.3.0",
+    "clipboardy": "^3.0.0",
     "titlecase-french": "^1.0.1"
   }
 }
